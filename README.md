@@ -1,7 +1,6 @@
 <!-- GitHub README.md -->
 
-<h1>Olá, eu sou Yan Vigna Vieira! 👋</h1>
-<p>🎓 Estudante de Análise de Dados<br>📊 Apaixonado por transformar dados em insights valiosos.</p>
+<h1>Olá, eu sou Yan Vigna Vieira! 👋</h1> <p>🎓 Sou estudante de Análise de Dados, apaixonado por desvendar padrões e transformar dados em insights valiosos que ajudam a tomar decisões mais inteligentes. <br>📊 Com uma abordagem analítica e curiosa, estou sempre em busca de novas maneiras de otimizar processos e gerar valor a partir de informações.</p>
 
 ---
 
@@ -20,10 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img src="https://img.icons8.com/color/50/microsoft-excel-2019.png" alt="Excel" />
   <img src="https://img.icons8.com/color/50/power-bi.png" alt="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
 </p>
 
 ---
+![snake gif](https://github.com/yanvigna2/yanvigna2/blob/output/github-contribution-grid-snake.svg)
+
 
 <h2 align="center">📫 Onde me encontrar</h2>
 <p align="center">
@@ -32,6 +32,9 @@
   </a>
   <a href="https://github.com/yanvigna2" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yanvvigna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
